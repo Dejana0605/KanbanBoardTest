@@ -1,0 +1,23 @@
+{
+  "name": "kanbanboardtest",
+  "version": "1.0.0",
+  "description": "Kanban board test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "testing",
+    "automation"
+  ],
+  "author": "Dejana Mugwiza",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.5.2",
+    "cypress-real-events": "^1.7.0"
+  },
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.1.0"
+  }
+}
